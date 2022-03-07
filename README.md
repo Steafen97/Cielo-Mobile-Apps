@@ -6,7 +6,7 @@ Cielo Apps is Apps that connect user with updated fashion design from designer a
 cloths materials.
 
 ## Technology Used
-Javascript, React Native, Firebase, Expo.
+Technology that used in this mobile apps is Javascript, React Native, Firebase, Expo.
 
 ## Figma Mock Up
 Apps mock up can be seen in https://www.figma.com/file/Pqe5zcU3spShA7Hstquuak/Cielo?node-id=0%3A1
