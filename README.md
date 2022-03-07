@@ -5,6 +5,8 @@ This is the repository for Final Project Mobile Apps Development with Sanbercode
 Cielo Apps is Apps that connect user with updated fashion design from designer and
 cloths materials.
 
+<img src="https://media-exp1.licdn.com/dms/image/C562DAQEOPhC5HDsFYw/profile-treasury-image-shrink_800_800/0/1644416549977?e=1646737200&v=beta&t=ea6e-5PEq04GSMrmj2sY92hK3f59b4F1nY_FnSplQiU" alt="Cielo Apps">
+
 ## Technology Used
 Technology that used in this mobile apps is Javascript, React Native, Firebase, Expo.
 
